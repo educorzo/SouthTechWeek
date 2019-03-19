@@ -1,5 +1,5 @@
 describe('Inverter', function() {
-  describe('when name is null', function () {
+  describe('when there is no name or surname', function () {
     it('should return empty string', function (){
     });
   });
